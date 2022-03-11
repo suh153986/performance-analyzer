@@ -1,0 +1,1 @@
+A lightweight program performance analyzer class in C/C++. Feasible for simple profiling. Compatible with Mac, Linux and Windows.
